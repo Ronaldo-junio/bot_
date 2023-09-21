@@ -41,10 +41,10 @@ const latensi = speed() - girastamp
 
 // Contato do dono
 const vcard = "BEGIN:VCARD\n"
-+ "VERSION:3.0\n" 
-+ "FN:Ton\n" // Nome completo
-+ "ORG:Lwa Company;\n" // A organização do contato
-+ "TEL;type=CELL;type=VOICE;waid=558586294618:+55 85 8629-4618\n" // WhatsApp ID + Número de telefone
++ "VERSION:0.0.1\n" 
++ "FN Ronaldo\n" // Nome completo
++ "ORG:\n" // A organização do contato
+// + "TEL;type=CELL;type=VOICE;waid=558586294618:+55 85 8629-4618\n" // WhatsApp ID + Número de telefone
 + "END:VCARD" // Fim do ctt
 
 async function laur() {
