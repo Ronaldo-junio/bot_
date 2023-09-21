@@ -179,14 +179,10 @@ default:
 // Comandos sem prefixo
 switch (testat) {
 
-case "corno":
-enviar("Você tá bravinha? tá?")
+case "":
+enviar("olá, como posso te ajudar?")
 break
-
-case "bom dia":
-conn.sendMessage(from, { react: { text: "☕", key: info.key }})
-break
-
+    
 }
 
 // Resposta quando o comando não é encontrado
