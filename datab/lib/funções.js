@@ -14,7 +14,7 @@ let response = await axios.get(url, body, {
   return response.data
 }
 
-const banner = cfonts.render("Laura", {
+const banner = cfonts.render("Julia", {
   font: "tiny",
   align: "center",
   colors: _.shuffle([ "red", "cyan", "yellow", "gray" ]),
