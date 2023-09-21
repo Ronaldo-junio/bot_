@@ -5,6 +5,7 @@
 * Versão melhorada e otimizada de laura main 
 * Grupo oficial https://chat.whatsapp.com/F7IrLGErFucGvBvDGQrfUR
 *
+* Versão aprimorada por Ronaldo-Junio
 */
 require("./datab/armazenamento/env/info.js")
 const { 
