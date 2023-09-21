@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://telegra.ph/file/4bbc4b6c92b039cb4da80.jpg" width="150" height="150" border="0" alt="PFP">
   
-  # Laura Robô de Whatsapp Multi Device
+  #Julia Robô de Whatsapp Multi Device
   
   [![Author](https://img.shields.io/badge/bayt-444-yellow.svg?style=for-the-badge&logo=github)](https://github.com/bayt444)
   
