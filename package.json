@@ -1,7 +1,7 @@
 {
-  "name": "laura-lite",
-  "version": "1.0.0",
-  "description": "Laura, Multi-Conexões, funcionamento mais rápido, e hospedado na repli ou em outro servidor o seu celular funcionará sem internet.",
+  "name": "Julia-beta",
+  "version": "0.0.1",
+  "description": "Julia, Multi-Conexões, funcionamento mais rápido, e hospedado na repli ou em outro servidor o seu celular funcionará sem internet.",
   "main": "index.js",
   "scripts": {
     "test": "node index.js",
