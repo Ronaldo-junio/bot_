@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://telegra.ph/file/4bbc4b6c92b039cb4da80.jpg" width="150" height="150" border="0" alt="PFP">
+  <img src="https://telegra.ph/galeria-09-23-2" width="150" height="150" border="0" alt="PFP">
   
   #Julia Robô de Whatsapp Multi Device
   
